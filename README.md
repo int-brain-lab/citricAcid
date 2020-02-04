@@ -1,10 +1,10 @@
-Anne Urai, CSHL, 2019
-
-
 # Citric Acid water as an alternative to water scheduling in behaving mice
 
 Anne Urai, CSHL, 2020
+
 Questions? anne.urai@internationalbrainlab.org
+
+
 
 ## Instructions for reproducing the data analysis ##
 
