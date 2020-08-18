@@ -12,7 +12,7 @@ Questions? anne.urai@internationalbrainlab.org
 Clone (first time) or pull (after that) this `citricAcid` repository to a convenient place on your laptop
 
 ### 2. install datajoint environment
-Create an Anaconda environment (e.g. `djenv`) that will have all your DataJoint things in it. 
+Create an Anaconda environment (e.g. `djenv`) that will have all your DataJoint things in it. The `iblenv` (https://github.com/int-brain-lab/iblenv) is the easiest way to do so.
 
 Activate that environment, then install DataJoint following these steps: https://tutorials.datajoint.io/setting-up/datajoint-python.html. See https://github.com/int-brain-lab/paper-behavior#obtain-a-datajoint-account-through-ibl-jupyterhub for instructions on how to obtain a DataJoint account.
 
