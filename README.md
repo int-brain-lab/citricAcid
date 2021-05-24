@@ -1,6 +1,6 @@
 # Citric Acid water as an alternative to water scheduling in behaving mice
 
-Anne Urai, CSHL, 2020
+Urai AE, Aguillon-Rodriguez V, Laranjeira IC, Cazettes F, The International Brain Laboratory, Mainen ZF & Churchland AK (2021) Citric Acid water as an alternative to water restriction for high-yield mouse behavior. eNeuro, 8(1). doi: 10.1523/ENEURO.0230-20.2020 
 
 Questions? anne.urai@internationalbrainlab.org
 
